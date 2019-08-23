@@ -1,0 +1,19 @@
+name: testingempirewand
+main: testingempirewand\MainClass
+version: 1.0
+api: 3.0.0
+
+load: POSTWORLD
+author: Brent
+description: testing!!!
+commands:
+getempirewand:
+description: gets a empirewand
+usage: "/getempirewand"
+permission: testingempirewand.command.getempirewand
+permission:
+permissions:
+testingempirewand:
+default: op
+description: "allows using all the testingempirewand things"
+children:
