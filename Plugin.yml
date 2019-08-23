@@ -16,4 +16,4 @@ permissions:
 testingempirewand:
 default: op
 description: "allows using all the testingempirewand things"
-children:
+
